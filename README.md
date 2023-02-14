@@ -65,11 +65,11 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ErikCasas&&theme=tokyonight" alt="rishavchanda" />
 
 
-<img align="left" style="margin-bottom: 50px" src="https://github-readme-stats.vercel.app/api?username=ErikCasas&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ErikCasas&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" />
 <br>
 
 
-<img align="center" style="margin-left: 35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ErikCasas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" />
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ErikCasas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" />
 
 
 
