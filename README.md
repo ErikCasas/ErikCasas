@@ -25,6 +25,9 @@
 <p align="rigth"> <img src="https://komarev.com/ghpvc/?username=ErikCasas&&style=flat-square" align="center" />
  </p>
 
+
+## **puedes ver mi portafolio web <a href="https://erikcasas.github.io/">`aquí`</a> en donde podras ver mis proyectos y demas**
+
 <h3 align="left"> 📎 Contactame :</h3>
 <p align="left">
 
