@@ -91,7 +91,7 @@ Por el momento mi proyecto mas complejo en el que he participado, es <a href="ht
 
 - `Funcionalidad 1`: Se creo un sistema de logueo local con Auth0. 
 - `Funcionalidad 2`: Se manejan compras reales, permitiendo al usuario añadir a un carrito y comprar por medio de PayPal. 
-- `Funncionalidad 3`: se manejan opciones de administrador, como estado de compra, bloqueo de usuarios, manejo de estadisiticas, creación y modificación de productos.
+- `Funcionalidad 3`: se manejan opciones de administrador, como estado de compra, bloqueo de usuarios, manejo de estadisiticas, creación y modificación de productos.
 
 
 Te invito a ver la pagina en vivo para que puedas apreciar la calidad del proyecto y muchas mas funcionalidades en <a href="https://pf-front-the-revenge-h8gg.vercel.app/">GALAXIA TECH</a>
