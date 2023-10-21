@@ -78,7 +78,9 @@
 
 
 Soy Erik, un joven apasiando por el crecimiento profesional, el cual se caracteriza por ser recursivo, mi pensamiento como programador se basa en aprender todos los días para superar cada tarea y obstaculo y si no existe una solución, soy yo el que la crea. Por el momento me dedico a la constante creación de proyectos personales con el fin de ponerme a prueba y demostrar que tengo las aptitudes necesarias para ser un gran programador y vivir de lo que se hacer.
+<div align="center" style="margin: 20px" >
 
 ![LandinPage](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)
+</div>
 
 
