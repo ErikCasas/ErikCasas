@@ -1,6 +1,6 @@
-![BANNER](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+![BANNER](https://i.pinimg.com/originals/cf/23/d5/cf23d5c33ff1ad50cf49d02721b4b5e2.gif)
 
-<h1 align="center">¡HOLA 👋, SOY ERIK! </h1>
+<h1 align="left">¡HOLA, SOY ERIK! :floppy_disk: </h1>
 
 <h2 align="center">
 🚀 Desarrollador Web Full Stack <br/> 
@@ -18,15 +18,12 @@
 
 - 💬 Preguntame sobre el **Stack MERN**
 
-- 📫 Como contactarme **santicasas667@gmail.com**
+- 📫 Como contactarme **erik.h.1002@gmail.com**
 
 - ⚡ La comunicación es la clave para un buen trabajo en equipo
 
-<p align="rigth"> <img src="https://komarev.com/ghpvc/?username=ErikCasas&&style=flat-square" align="center" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ErikCasas&&style=flat-square" align="center"  height="30"/>
  </p>
-
-
-## **puedes ver mi portafolio web <a href="https://erikcasas.github.io/">`aquí`</a> en donde podras ver mis proyectos y demas**
 
 <h3 align="left"> 📎 Contactame :</h3>
 <p align="left">
@@ -41,8 +38,7 @@
 
 <h1 align="center">Tecnologias, Frameworks y mas... </h1>
 
-
-<div>  
+<div align="center" > 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -62,15 +58,17 @@
 </div>
 
 <br>
+<div align="center" style="margin: 20px" > 
+<img align="center" style="margin: 20px" src="https://github-readme-streak-stats.herokuapp.com/?user=ErikCasas&&theme=tokyonight" alt="rishavchanda" />
+<img align="center" style="margin: 20px" src="https://github-readme-stats.vercel.app/api?username=ErikCasas&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" />
+</div>
 
-<img align="center" style="margin: 20px " src="https://github-readme-streak-stats.herokuapp.com/?user=ErikCasas&&theme=tokyonight" alt="rishavchanda" />
 
-
-<img align="center" style="margin: 20px " src="https://github-readme-stats.vercel.app/api?username=ErikCasas&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" />
 <br>
+<div align="center" style="margin: 20px" > 
+<img align="center" style="margin: 20px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ErikCasas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" />
+</div>
 
-
-<img align="center" style="margin: 20px "  src="https://github-readme-stats.vercel.app/api/top-langs?username=ErikCasas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" />
 
 
 
@@ -81,24 +79,6 @@
 
 Soy Erik, un joven apasiando por el crecimiento profesional, el cual se caracteriza por ser recursivo, mi pensamiento como programador se basa en aprender todos los días para superar cada tarea y obstaculo y si no existe una solución, soy yo el que la crea. Por el momento me dedico a la constante creación de proyectos personales con el fin de ponerme a prueba y demostrar que tengo las aptitudes necesarias para ser un gran programador y vivir de lo que se hacer.
 
+![LandinPage](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)
 
-
-<h1 align="center"></h1>
-<h1 align="center">Mi proyecto mas complejo</h1>
-
-Por el momento mi proyecto mas complejo en el que he participado, es <a href="https://pf-front-the-revenge-h8gg.vercel.app/">GALAXIA TECH</a> y se basa en el stack MERN, el cual es la simulación de un Ecommerce, en donde simulo una tienda de componente de PC, con distintas funcionalidades para usuario y administradores, tales como: 
-
-
-- `Funcionalidad 1`: Se creo un sistema de logueo local con Auth0. 
-- `Funcionalidad 2`: Se manejan compras reales, permitiendo al usuario añadir a un carrito y comprar por medio de PayPal. 
-- `Funcionalidad 3`: se manejan opciones de administrador, como estado de compra, bloqueo de usuarios, manejo de estadisiticas, creación y modificación de productos.
-
-
-Te invito a ver la pagina en vivo para que puedas apreciar la calidad del proyecto y muchas mas funcionalidades en <a href="https://pf-front-the-revenge-h8gg.vercel.app/">GALAXIA TECH</a>
-
-![LandinPage](https://github.com/ErikCasas/ErikCasas/blob/main/image.png?raw=true)
-<!-- 
-<img src="https://github-readme-stats.vercel.app/api?username=ErikCasas&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-<br/> -->
 
