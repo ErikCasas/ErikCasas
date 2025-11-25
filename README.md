@@ -42,7 +42,7 @@
 </h2>
 
 
-Soy Erik, un joven apasiando por el crecimiento profesional, el cual se caracteriza por ser recursivo, mi pensamiento como programador se basa en aprender todos los días para superar cada tarea y un  obstaculo a la vez y si no existe una solución, soy yo el que la crea. Actualmente soy desarrollador Full stack en Ada school
+Soy Erik, un joven apasiando por el crecimiento profesional, el cual se caracteriza por ser recursivo, mi pensamiento como programador se basa en aprender todos los días para superar cada tarea y un  obstaculo a la vez y si no existe una solución, soy yo el que la crea. Actualmente soy desarrollador Semi Senior en Heimcore
 <div align="center" style="margin: 20px" >
 
 ![LandinPage](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)
